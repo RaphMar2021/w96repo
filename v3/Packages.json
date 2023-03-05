@@ -1,5 +1,22 @@
 [
   {
+    "name": "w10theme",
+    "friendlyName": "Windows 10 theme",
+    "description": "A Windows 10 like theme for Windows 96.",
+    "author": "RaphMar2021",
+    "category": "other",
+    "version": 1.0,
+    "feature_requirements": [],
+    "min_os_version": 300000,
+    "max_os_version": 400000,
+    "depends": [],
+    "iconFiles": {
+      "32x32": "$REPO_PATH$/dist/ten/icon32.png",
+      "16x16": "$REPO_PATH$/dist/ten/icon16.png"
+    },
+    "packageRoot": "$REPO_PATH$/dist/ten/"
+  },
+  {
     "name": "border",
     "friendlyName": "Border",
     "description": "A simple, multitab and modern web browser.",
