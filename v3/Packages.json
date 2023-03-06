@@ -17,6 +17,23 @@
     "packageRoot": "$REPO_PATH$/dist/ten/"
   },
   {
+    "name": "folderdownload",
+    "friendlyName": "Folder Download",
+    "description": "A lightweight utility to download folders from Windows 96 to your computer.",
+    "author": "RaphMar2021",
+    "category": "accesories",
+    "version": 1.0,
+    "feature_requirements": [],
+    "min_os_version": 300000,
+    "max_os_version": 400000,
+    "depends": [],
+    "iconFiles": {
+      "32x32": "$REPO_PATH$/dist/folderdownload/icon32.png",
+      "16x16": "$REPO_PATH$/dist/folderdownload/icon16.png"
+    },
+    "packageRoot": "$REPO_PATH$/dist/folderdownload/"
+  },
+  {
     "name": "border",
     "friendlyName": "Border",
     "description": "A simple, multitab and modern web browser.",
